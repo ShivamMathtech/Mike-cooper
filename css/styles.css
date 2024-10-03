@@ -1,0 +1,35 @@
+body {
+  background-color: #030303;
+}
+.main-page {
+  height: 100vh;
+  background-image: url("img/bg.jpg");
+  background-size: cover;
+}
+header {
+  height: 100px;
+}
+.nav-link {
+  color: white;
+}
+.second-page {
+  height: 100vh;
+  background-color: white;
+}
+.left-box {
+  width: 500px;
+  height: 300px;
+}
+.right-box {
+  width: 500px;
+  height: 300px;
+}
+.small-box {
+  width: 150px;
+  height: 150px;
+  gap: 10px;
+}
+.third-page {
+  height: 100vh;
+  background-color: rgb(163, 163, 163);
+}
